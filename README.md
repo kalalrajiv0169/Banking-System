@@ -1,6 +1,6 @@
 # Banking-System
 
-     ======== Banking Management System ========
+  #   ======== Banking Management System ========
 
                         Main Menu
                 1. Create New Account
@@ -10,4 +10,4 @@
                 5. Withdraw Money
                 6. Exit
                 -------------------------------
-                Enter Your Choice :
+             #   Enter Your Choice :
