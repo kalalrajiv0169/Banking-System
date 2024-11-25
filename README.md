@@ -10,4 +10,4 @@
                 5. Withdraw Money
                 6. Exit
                 -------------------------------
-             #   Enter Your Choice :
+                Enter Your Choice :
